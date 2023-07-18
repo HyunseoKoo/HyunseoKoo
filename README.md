@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=중%20꺽%20마&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&text=중%20꺽%20마&fontSize=60)
 
 ### 안녕하세요! 프론트엔드 개발자를 꿈꾸는 구현서입니다 😆
 
