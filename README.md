@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요!%20매일매일%20성장하는%20구현서입니다%20👋&fontSize=30)
+
+
+
+#### 🌱 공부 좌우명 😆
+1. 완벽하게 하려고 시작도 못할 바에는 가볍게 시작하는게 낫다 !
+2. 한번에 끝내려하지 말고 점점 보충해 나가자 !
+3. 회피하지 말자. 모두가 동등한 환경이다 !
+4. 농부처럼 우직하게 일궈서 지식 작물을 키우자 !
+5. 나는 충분한 시간을 가지고 있다 !
 
 <!--
 **HyunseoKoo/HyunseoKoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +23,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I used to use
+
+---
+
+### 🔭 익숙한 스택
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
@@ -32,3 +44,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/></span>
+
+---
+
+### 😄 가장 많이 사용하는 언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseoKoo&layout=compact)](https://github.com/HyunseoKoo/github-readme-stats)
+
+---
+
+### 📊 깃 허브 상태
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunseoKoo&show_icons=true&theme=radical)
