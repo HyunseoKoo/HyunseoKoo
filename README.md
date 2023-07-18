@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요!%20매일매일%20성장하는%20구현서입니다%20👋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요!%20프론트엔드%20개발자를%20꿈꾸는%20구현서입니다%20👋&fontSize=30)
 
 
 
