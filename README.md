@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요!%20프론트엔드%20개발자를%20꿈꾸는%20구현서입니다%20👋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=중%20꺽%20마&fontSize=60)
 
+### 안녕하세요! 프론트엔드 개발자를 꿈꾸는 구현서입니다 😆
 
-
-#### 🌱 공부 좌우명 😆
+#### 🌱 공부 좌우명 
 1. 완벽하게 하려고 시작도 못할 바에는 가볍게 시작하는게 낫다 !
 2. 한번에 끝내려하지 말고 점점 보충해 나가자 !
 3. 회피하지 말자. 모두가 동등한 환경이다 !
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 😄 가장 많이 사용하는 언어
+### 🔎 가장 많이 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunseoKoo&layout=compact)](https://github.com/HyunseoKoo/github-readme-stats)
 
 ---
